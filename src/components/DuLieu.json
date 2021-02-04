@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Hoang",
+        "phone": "0987543123",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Quang",
+        "phone": "098666123",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Le",
+        "phone": "0387543125",
+        "permission": 1
+    },
+    {
+        "id": 4,
+        "name": "Huy",
+        "phone": "0687546423",
+        "permission": 3
+    },
+    {
+        "id": 5,
+        "name": "Ly",
+        "phone": "0787512123",
+        "permission": 2
+    },
+    {
+        "id": 6,
+        "name": "Anh",
+        "phone": "0287546533",
+        "permission": 1
+    },
+    {
+        "id": 7,
+        "name": "Quan",
+        "phone": "0487246532",
+        "permission": 3
+    },
+    {
+        "id": 8,
+        "name": "Hoang",
+        "phone": "0987543123",
+        "permission": 1
+    }
+]
